@@ -76,6 +76,10 @@
                     <i class="fa fa-twitter"></i>
                     Login with Twitter
                   </a>
+                  <a href="{{ url('login/github') }}" class="btn btn-social btn-twitter">
+                    <i class="fa fa-github"></i>
+                    Login with github
+                  </a>
                 </div>
             </div>
         </div>
